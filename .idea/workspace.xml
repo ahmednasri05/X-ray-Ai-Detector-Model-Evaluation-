@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="977664a7-102a-43c9-bbcb-7b644be088ae" name="Changes" comment="updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/patient_analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -97,6 +98,9 @@
       <workItem from="1726754910090" duration="2978000" />
       <workItem from="1726996548963" duration="803000" />
       <workItem from="1726997375687" duration="15256000" />
+      <workItem from="1727096941015" duration="11023000" />
+      <workItem from="1727114256803" duration="675000" />
+      <workItem from="1727190341254" duration="1431000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <option name="closed" value="true" />

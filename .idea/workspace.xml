@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="977664a7-102a-43c9-bbcb-7b644be088ae" name="Changes" comment="updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+>>>>>>> origin/master
       <change beforePath="$PROJECT_DIR$/patient_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/patient_analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,9 +102,14 @@
       <workItem from="1726754910090" duration="2978000" />
       <workItem from="1726996548963" duration="803000" />
       <workItem from="1726997375687" duration="15256000" />
+<<<<<<< HEAD
       <workItem from="1727096941015" duration="11023000" />
       <workItem from="1727114256803" duration="675000" />
       <workItem from="1727190341254" duration="1431000" />
+=======
+      <workItem from="1727264934580" duration="5922000" />
+      <workItem from="1727683393492" duration="7829000" />
+>>>>>>> origin/master
     </task>
     <task id="LOCAL-00001" summary="updates">
       <option name="closed" value="true" />
